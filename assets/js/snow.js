@@ -12,8 +12,8 @@ function createSnowflake() {
   const size = Math.random() * 1.5 + 0.5;
   snowflake.style.fontSize = size + 'em';
   
-  // Random animation duration (3-6 seconds)
-  const duration = Math.random() * 3 + 3;
+  // Random animation duration (8-15 seconds) - slower fall
+  const duration = Math.random() * 7 + 8;
   snowflake.style.animationDuration = duration + 's';
   
   // Random delay
