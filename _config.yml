@@ -1,0 +1,19 @@
+# GitHub Pages Configuration
+# This is a static site, so minimal Jekyll config is needed
+
+title: MaximumChristmas
+description: Taking Christmas to 11 - Leaderboards for the most ridiculous Christmas products
+url: https://maximumchristmas.com
+baseurl: ""
+
+# Exclude from processing
+exclude:
+  - node_modules
+  - scripts
+  - package.json
+  - package-lock.json
+  - README.md
+
+# Plugins (if using Jekyll)
+plugins: []
+

@@ -1,0 +1,628 @@
+{
+  "leaderboard": [
+    {
+      "rank": 1,
+      "id": 34,
+      "name": "DND Christmas Edition- Brewer's Tavern Christmas Brawl",
+      "price": 44.99,
+      "imageUrl": "assets/images/products/34.jpg",
+      "voteCount": 11
+    },
+    {
+      "rank": 2,
+      "id": 35,
+      "name": "Christmas Dog Sweater",
+      "price": 12.79,
+      "imageUrl": "assets/images/products/35.jpg",
+      "voteCount": 8
+    },
+    {
+      "rank": 3,
+      "id": 23,
+      "name": "365 Advent Calendar",
+      "price": 298.99,
+      "imageUrl": "assets/images/products/23.jpg",
+      "voteCount": 7
+    },
+    {
+      "rank": 4,
+      "id": 21,
+      "name": "Giant Stocking",
+      "price": 199.98,
+      "imageUrl": "assets/images/products/21.jpg",
+      "voteCount": 7
+    },
+    {
+      "rank": 5,
+      "id": 40,
+      "name": "Monster Inflatable Tree",
+      "price": 159.95,
+      "imageUrl": "assets/images/products/40.jpg",
+      "voteCount": 7
+    },
+    {
+      "rank": 6,
+      "id": 33,
+      "name": "Krampus Takes Over Manhattan DVD",
+      "price": 24.99,
+      "imageUrl": "assets/images/products/33.jpg",
+      "voteCount": 6
+    },
+    {
+      "rank": 7,
+      "id": 56,
+      "name": "T Shirt",
+      "price": 10.99,
+      "imageUrl": "assets/images/products/56.jpg",
+      "voteCount": 6
+    },
+    {
+      "rank": 8,
+      "id": 36,
+      "name": "Christmas Horse Blanket",
+      "price": 120.98,
+      "imageUrl": "assets/images/products/36.jpg",
+      "voteCount": 5
+    },
+    {
+      "rank": 9,
+      "id": 59,
+      "name": "Nostalgic Christmas Cards- Pack of 24",
+      "price": 10.99,
+      "imageUrl": "assets/images/products/59.jpg",
+      "voteCount": 4
+    },
+    {
+      "rank": 10,
+      "id": 84,
+      "name": "Nutcracker Themed Bouncy Palace",
+      "price": 989.99,
+      "imageUrl": "assets/images/products/84.jpg",
+      "voteCount": 4
+    },
+    {
+      "rank": 11,
+      "id": 54,
+      "name": "Sling Back High Heel",
+      "price": 69.99,
+      "imageUrl": "assets/images/products/54.jpg",
+      "voteCount": 4
+    },
+    {
+      "rank": 12,
+      "id": 72,
+      "name": "Sugar Plum Fairy Costume for Child ",
+      "price": 15.49,
+      "imageUrl": "assets/images/products/72.jpg",
+      "voteCount": 4
+    },
+    {
+      "rank": 13,
+      "id": 49,
+      "name": "Celtic Christmas Purse",
+      "price": 39.99,
+      "imageUrl": "assets/images/products/49.jpg",
+      "voteCount": 3
+    },
+    {
+      "rank": 14,
+      "id": 57,
+      "name": "Clean Up For Holidays Feather Duster",
+      "price": 10.99,
+      "imageUrl": "assets/images/products/57.jpg",
+      "voteCount": 3
+    },
+    {
+      "rank": 15,
+      "id": 22,
+      "name": "Gingerbread Mask",
+      "price": 34.99,
+      "imageUrl": "assets/images/products/22.jpg",
+      "voteCount": 3
+    },
+    {
+      "rank": 16,
+      "id": 65,
+      "name": "Melamine Mixing Bowls- set of 3",
+      "price": 10.99,
+      "imageUrl": "assets/images/products/65.jpg",
+      "voteCount": 3
+    },
+    {
+      "rank": 17,
+      "id": 44,
+      "name": "Special Christmas Sausage Rolls- Pack of 6",
+      "price": 19.99,
+      "imageUrl": "assets/images/products/44.jpg",
+      "voteCount": 3
+    },
+    {
+      "rank": 18,
+      "id": 95,
+      "name": "3 Christmas China Rabbits",
+      "price": 69.99,
+      "imageUrl": "assets/images/products/95.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 19,
+      "id": 73,
+      "name": "Australian Christmas Decoration",
+      "price": 25.99,
+      "imageUrl": "assets/images/products/73.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 20,
+      "id": 88,
+      "name": "Bluetooth Animatronic Singing Christmas Candles",
+      "price": 39.99,
+      "imageUrl": "assets/images/products/88.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 21,
+      "id": 110,
+      "name": "Designer Elf Sneakers",
+      "price": 179.99,
+      "imageUrl": "assets/images/products/110.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 22,
+      "id": 62,
+      "name": "Doormat 24x36in",
+      "price": 24.99,
+      "imageUrl": "assets/images/products/62.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 23,
+      "id": 89,
+      "name": "Giant Christmas Penguin Kite",
+      "price": 49.99,
+      "imageUrl": "assets/images/products/89.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 24,
+      "id": 86,
+      "name": "Happy Wacky Tube Man",
+      "price": 56.99,
+      "imageUrl": "assets/images/products/86.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 25,
+      "id": 80,
+      "name": "Inflatable Santa Christmas Costume",
+      "price": 39.89,
+      "imageUrl": "assets/images/products/80.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 26,
+      "id": 74,
+      "name": "Nepalese Christmas Decoration",
+      "price": 54.99,
+      "imageUrl": "assets/images/products/74.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 27,
+      "id": 97,
+      "name": "Set of 7 Decorated Picture Frames",
+      "price": 79.99,
+      "imageUrl": "assets/images/products/97.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 28,
+      "id": 100,
+      "name": "Traditional Russian Christmas Dress, Coat and Headress",
+      "price": 230.99,
+      "imageUrl": "assets/images/products/100.jpg",
+      "voteCount": 2
+    },
+    {
+      "rank": 29,
+      "id": 64,
+      "name": "Christmas Banner for Single Prop Plane",
+      "price": 244.89,
+      "imageUrl": "assets/images/products/64.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 30,
+      "id": 70,
+      "name": "Christmas Hat",
+      "price": 19.99,
+      "imageUrl": "assets/images/products/70.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 31,
+      "id": 82,
+      "name": "Christmas Umbrella for the Hot Tub",
+      "price": 120.95,
+      "imageUrl": "assets/images/products/82.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 32,
+      "id": 76,
+      "name": "Christmas Wedding Dress",
+      "price": 549.99,
+      "imageUrl": "assets/images/products/76.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 33,
+      "id": 93,
+      "name": "Color on Your Pancakes- 3 Markers and Plastic Embellishments",
+      "price": 10.99,
+      "imageUrl": "assets/images/products/93.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 34,
+      "id": 41,
+      "name": "Dancing Showgirl Snowflakes",
+      "price": 350.1,
+      "imageUrl": "assets/images/products/41.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 35,
+      "id": 63,
+      "name": "Drivable Christmas Sleigh Ages 4-8",
+      "price": 324.99,
+      "imageUrl": "assets/images/products/63.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 36,
+      "id": 109,
+      "name": "Elf on Shelf, Nanny Cam",
+      "price": 59.99,
+      "imageUrl": "assets/images/products/109.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 37,
+      "id": 116,
+      "name": "Elf On The Shelf, Spy Satellite Access",
+      "price": 599.99,
+      "imageUrl": "assets/images/products/116.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 38,
+      "id": 32,
+      "name": "Elf Protein Shake - no artificial sweeteners!",
+      "price": 5.99,
+      "imageUrl": "assets/images/products/32.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 39,
+      "id": 58,
+      "name": "Hans Christian Andersen Snow Queen Snow Globe",
+      "price": 79.99,
+      "imageUrl": "assets/images/products/58.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 40,
+      "id": 83,
+      "name": "Inflatable Christmas Palm Trees- pack of 2",
+      "price": 350.99,
+      "imageUrl": "assets/images/products/83.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 41,
+      "id": 101,
+      "name": "Inflatable Hot Tub- With Heater and Lights",
+      "price": 450.99,
+      "imageUrl": "assets/images/products/101.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 42,
+      "id": 85,
+      "name": "Massive Wooden German Christmas Carousel",
+      "price": 989.9,
+      "imageUrl": "assets/images/products/85.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 43,
+      "id": 46,
+      "name": "Merry Ghoulmass Christmas Tree Topper",
+      "price": 22.69,
+      "imageUrl": "assets/images/products/46.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 44,
+      "id": 121,
+      "name": "Naughty or Nice Sorting Hat",
+      "price": 159.99,
+      "imageUrl": "assets/images/products/121.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 45,
+      "id": 96,
+      "name": "Poster of Farmer Picking Sugar Plums",
+      "price": 10.99,
+      "imageUrl": "assets/images/products/96.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 46,
+      "id": 81,
+      "name": "Punchbowl-Sized Martini Glass",
+      "price": 32.99,
+      "imageUrl": "assets/images/products/81.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 47,
+      "id": 69,
+      "name": "Roman Christmas Toga",
+      "price": 59.99,
+      "imageUrl": "assets/images/products/69.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 48,
+      "id": 117,
+      "name": "Roomba Christmas Glitter Sprayer",
+      "price": 69.99,
+      "imageUrl": "assets/images/products/117.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 49,
+      "id": 77,
+      "name": "XXL Yacht Bow for New Yacht",
+      "price": 54.99,
+      "imageUrl": "assets/images/products/77.jpg",
+      "voteCount": 1
+    },
+    {
+      "rank": 50,
+      "id": 3,
+      "name": "365 Advent",
+      "price": 455,
+      "imageUrl": "assets/images/products/3.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 51,
+      "id": 60,
+      "name": "Beautiful Christmas Flowers",
+      "price": 19.99,
+      "imageUrl": "assets/images/products/60.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 52,
+      "id": 2,
+      "name": "Big Sock",
+      "price": 234,
+      "imageUrl": "assets/images/products/2.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 53,
+      "id": 79,
+      "name": "Bowl Full of Jelly Santa Belly",
+      "price": 59.99,
+      "imageUrl": "assets/images/products/79.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 54,
+      "id": 91,
+      "name": "Christmas Cape with Faux Fur Collar",
+      "price": 39.99,
+      "imageUrl": "assets/images/products/91.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 55,
+      "id": 55,
+      "name": "Christmas Chesterfield Couch ",
+      "price": 829.99,
+      "imageUrl": "assets/images/products/55.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 56,
+      "id": 45,
+      "name": "Christmas Kimono with Fried Chicken",
+      "price": 39.99,
+      "imageUrl": "assets/images/products/45.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 57,
+      "id": 71,
+      "name": "Christmas Suit",
+      "price": 349.99,
+      "imageUrl": "assets/images/products/71.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 58,
+      "id": 118,
+      "name": "Eggnog Water Slide",
+      "price": 899.99,
+      "imageUrl": "assets/images/products/118.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 59,
+      "id": 125,
+      "name": "Elf Carving Knife",
+      "price": 67.99,
+      "imageUrl": "assets/images/products/125.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 60,
+      "id": 94,
+      "name": "Fuzzy High Tops with Christmas Monsters",
+      "price": 169.99,
+      "imageUrl": "assets/images/products/94.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 61,
+      "id": 4,
+      "name": "Gingerbread mask",
+      "price": 45,
+      "imageUrl": "assets/images/products/4.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 62,
+      "id": 112,
+      "name": "Gingerbread Tokyo",
+      "price": 759.99,
+      "imageUrl": "assets/images/products/112.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 63,
+      "id": 122,
+      "name": "Glitter Eye Drops",
+      "price": 15.99,
+      "imageUrl": "assets/images/products/122.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 64,
+      "id": 92,
+      "name": "Golden Ping Pong Paddles with Funny Elf Face Balls",
+      "price": 29.99,
+      "imageUrl": "assets/images/products/92.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 65,
+      "id": 42,
+      "name": "Holly Jolly Your Boat- Sails, Flag and Lights",
+      "price": 1868.98,
+      "imageUrl": "assets/images/products/42.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 66,
+      "id": 108,
+      "name": "Home Snow Globe Decoration",
+      "price": 899.99,
+      "imageUrl": "assets/images/products/108.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 67,
+      "id": 75,
+      "name": "Laser projector to Color the Moon",
+      "price": 999.99,
+      "imageUrl": "assets/images/products/75.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 68,
+      "id": 61,
+      "name": "Massive Christmas Water Gun",
+      "price": 49.95,
+      "imageUrl": "assets/images/products/61.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 69,
+      "id": 78,
+      "name": "Non-GMO Christmas Colored Tomatoes- Pack of 3",
+      "price": 12.99,
+      "imageUrl": "assets/images/products/78.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 70,
+      "id": 113,
+      "name": "Prefab Gingerbread Home",
+      "price": 999.99,
+      "imageUrl": "assets/images/products/113.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 71,
+      "id": 87,
+      "name": "Red and Gold Christmas Curtains for your Pergola- set of 8",
+      "price": 399.9,
+      "imageUrl": "assets/images/products/87.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 72,
+      "id": 120,
+      "name": "Reindeer Bubble Gun",
+      "price": 79.99,
+      "imageUrl": "assets/images/products/120.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 73,
+      "id": 124,
+      "name": "Reindeer Cosplay Kit",
+      "price": 469.99,
+      "imageUrl": "assets/images/products/124.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 74,
+      "id": 90,
+      "name": "Remote Controlled Hot Air Balloon",
+      "price": 349.99,
+      "imageUrl": "assets/images/products/90.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 75,
+      "id": 123,
+      "name": "Santa Fondue Fountain",
+      "price": 39.99,
+      "imageUrl": "assets/images/products/123.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 76,
+      "id": 111,
+      "name": "Santa Sleigh Car Wrap",
+      "price": 599.99,
+      "imageUrl": "assets/images/products/111.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 77,
+      "id": 114,
+      "name": "Snow globe Hot Tub",
+      "price": 699.99,
+      "imageUrl": "assets/images/products/114.jpg",
+      "voteCount": 0
+    },
+    {
+      "rank": 78,
+      "id": 115,
+      "name": "Tickets to the gingerbread eating contest",
+      "price": 59.99,
+      "imageUrl": "assets/images/products/115.jpg",
+      "voteCount": 0
+    }
+  ]
+}

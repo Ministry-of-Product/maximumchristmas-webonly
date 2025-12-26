@@ -1,0 +1,12 @@
+{
+  "name": "maximumchristmas-webonly",
+  "version": "1.0.0",
+  "description": "Static GitHub Pages site for Maximum Christmas leaderboards",
+  "scripts": {
+    "fetch-data": "node scripts/fetch-data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
