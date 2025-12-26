@@ -1,0 +1,238 @@
+{
+  "leaderboard": [
+    {
+      "rank": 1,
+      "id": 10,
+      "name": "Carbonite Santa",
+      "price": 15.95,
+      "imageUrl": "assets/images/products/10.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0964F943Y?tag=maxxmas_mop-20",
+      "voteCount": 31
+    },
+    {
+      "rank": 2,
+      "id": 28,
+      "name": "Nicolas Cages Sequin Pillow Cases ",
+      "price": 9.99,
+      "imageUrl": "assets/images/products/28.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0B66V8GMX?tag=maxxmas_mop-20",
+      "voteCount": 20
+    },
+    {
+      "rank": 3,
+      "id": 7,
+      "name": "Skull Hands Red Cloak Decorative Tree ",
+      "price": 19.99,
+      "imageUrl": "assets/images/products/7.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0D6QL9QBV?tag=maxxmas_mop-20",
+      "voteCount": 17
+    },
+    {
+      "rank": 4,
+      "id": 39,
+      "name": "Squirrel Wooden Ornament",
+      "price": 11.95,
+      "imageUrl": "assets/images/products/39.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CHP24826?tag=maxxmas_mop-20",
+      "voteCount": 9
+    },
+    {
+      "rank": 5,
+      "id": 53,
+      "name": "24-in Christmas Wreath",
+      "price": 35.99,
+      "imageUrl": "assets/images/products/53.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FL23F5HQ?tag=maxxmas_mop-20",
+      "voteCount": 8
+    },
+    {
+      "rank": 6,
+      "id": 51,
+      "name": "Pink Flamingo Christmas Tree Topper",
+      "price": 19.99,
+      "imageUrl": "assets/images/products/51.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FQ3SCGQJ?tag=maxxmas_mop-20",
+      "voteCount": 8
+    },
+    {
+      "rank": 7,
+      "id": 1,
+      "name": "Tipsy Elves Ugly Christmas Sweaters for Men - Colorful and Funny Men's Christmas Sweaters - Hilarious Holiday Pullovers",
+      "price": 39.95,
+      "imageUrl": "assets/images/products/1.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B011MLBDTW?tag=maxxmas_mop-20",
+      "voteCount": 5
+    },
+    {
+      "rank": 8,
+      "id": 68,
+      "name": "Bumble Jumpsuit",
+      "price": 89.95,
+      "imageUrl": "assets/images/products/68.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DGMY8K3B?tag=maxxmas_mop-20",
+      "voteCount": 4
+    },
+    {
+      "rank": 9,
+      "id": 50,
+      "name": "Lime Green Hat Tree Topper",
+      "price": 19.99,
+      "imageUrl": "assets/images/products/50.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FQP89M9G?tag=maxxmas_mop-20",
+      "voteCount": 4
+    },
+    {
+      "rank": 10,
+      "id": 17,
+      "name": "Pug Dog Peeing on Snowman",
+      "price": 59.99,
+      "imageUrl": "assets/images/products/17.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FL7RSPTV?tag=maxxmas_mop-20",
+      "voteCount": 4
+    },
+    {
+      "rank": 11,
+      "id": 66,
+      "name": "Butter Sticks Ornament",
+      "price": 9.89,
+      "imageUrl": "assets/images/products/66.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CK4181Z8?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 12,
+      "id": 67,
+      "name": "Candy Cane Decorations",
+      "price": 19.95,
+      "imageUrl": "assets/images/products/67.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FGJJC4J9?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 13,
+      "id": 13,
+      "name": "Giant Bags Gift Sack",
+      "price": 38.99,
+      "imageUrl": "assets/images/products/13.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CG6JC3BG?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 14,
+      "id": 37,
+      "name": "Green Monster Christmas Decoration",
+      "price": 25.73,
+      "imageUrl": "assets/images/products/37.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DGCPSGDK?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 15,
+      "id": 8,
+      "name": "Large Paper Krampus ",
+      "price": 9.68,
+      "imageUrl": "assets/images/products/8.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FFGTFF2R?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 16,
+      "id": 52,
+      "name": "Personalized Pink Sewing Machine Ornament 2025",
+      "price": 14.95,
+      "imageUrl": "assets/images/products/52.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FZBKWSD8?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 17,
+      "id": 107,
+      "name": "Victorian Christmas Caroler Costume",
+      "price": 65.99,
+      "imageUrl": "assets/images/products/107.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DLG2XS6X?tag=maxxmas_mop-20",
+      "voteCount": 3
+    },
+    {
+      "rank": 18,
+      "id": 102,
+      "name": "Inflatable Gingerbread Man Costume",
+      "price": 33.98,
+      "imageUrl": "assets/images/products/102.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B09DGB1VY5?tag=maxxmas_mop-20",
+      "voteCount": 2
+    },
+    {
+      "rank": 19,
+      "id": 99,
+      "name": "Ornamental Reindeer Cookie Jar",
+      "price": 40.99,
+      "imageUrl": "assets/images/products/99.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DKWX8JCH?tag=maxxmas_mop-20",
+      "voteCount": 2
+    },
+    {
+      "rank": 20,
+      "id": 104,
+      "name": "Santa in Monster Truck Inflatable",
+      "price": 134.99,
+      "imageUrl": "assets/images/products/104.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FPRG4DRR?tag=maxxmas_mop-20",
+      "voteCount": 2
+    },
+    {
+      "rank": 21,
+      "id": 15,
+      "name": "12FT Giant Christmas Inflatables Dinosaur",
+      "price": 64.98,
+      "imageUrl": "assets/images/products/15.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FL7RX4BZ?tag=maxxmas_mop-20",
+      "voteCount": 1
+    },
+    {
+      "rank": 22,
+      "id": 98,
+      "name": "Christmas Necklace 14K Gold",
+      "price": 14.99,
+      "imageUrl": "assets/images/products/98.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B09G5MV8XX?tag=maxxmas_mop-20",
+      "voteCount": 1
+    },
+    {
+      "rank": 23,
+      "id": 105,
+      "name": "Elf Costume for 12ft Tall Skeleton",
+      "price": 32.99,
+      "imageUrl": "assets/images/products/105.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DG2RP3KN?tag=maxxmas_mop-20",
+      "voteCount": 1
+    },
+    {
+      "rank": 24,
+      "id": 106,
+      "name": "23in tall Lawn Goose Christmas Costume",
+      "price": 15.99,
+      "imageUrl": "assets/images/products/106.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FPC8CNDR?tag=maxxmas_mop-20",
+      "voteCount": 0
+    },
+    {
+      "rank": 25,
+      "id": 103,
+      "name": "Inflatable Costume- Penguin Riding on Polar Bear",
+      "price": 37.99,
+      "imageUrl": "assets/images/products/103.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CFGKTCY2?tag=maxxmas_mop-20",
+      "voteCount": 0
+    },
+    {
+      "rank": 26,
+      "id": 119,
+      "name": "Metal Outdoor Nativity Scene",
+      "price": 59.99,
+      "imageUrl": "assets/images/products/119.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FPX61GBH?tag=maxxmas_mop-20",
+      "voteCount": 0
+    }
+  ]
+}
